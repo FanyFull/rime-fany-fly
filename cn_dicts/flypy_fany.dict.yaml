@@ -1,0 +1,18 @@
+
+# Rime dictionary
+# encoding: utf-8
+## Based on http://gerry.lamost.org/blog/?p=296003
+---
+
+name: flypy_fany
+version: 2023-05-01
+sort: by_weight
+# use_preset_vocabulary: true  # 導入八股文字頻
+# max_phrase_length: 1         # 不生成詞彙
+...
+
+情深深雨濛濛	qk uf uf yu mg mg	999
+韵酒	yy jq	100
+濛濛	mg mg	100
+雨濛濛	yu mg mg	100
+濛	mg	100
